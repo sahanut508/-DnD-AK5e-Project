@@ -270,4 +270,9 @@
 * **Duration:** ระยะเวลาการแสดงผล (เช่น `Instantaneous`, `1 Minute`, หรือ `Concentration` ที่ต้องรักษาสมาธิ)
 * **Description & Scaling:** คำอธิบายผลลัพธ์ของเวทมนตร์ (ความเสียหาย, สถานะผิดปกติ, การรักษา) รวมถึงผลลัพธ์โบนัสเมื่อจ่ายแต้มร่ายในระดับที่สูงขึ้น (Upcasting)
 
-<img width="100%" alt="Arts List Example" src="https://github.com/user-attachments/assets/ca3dfbac-a569-4f22-858b-0a7a52a81a6d" />
+<img width="100%" alt="Arts List Example" src="https://github.com/user-attachments/assets/ca3dfbac-a569-4f22-858b-0a7a52a81a6d" />ฃ
+
+---
+
+## 🆔 Operator Cards (ระบบบัตรพนักงาน Rhodes Island / การ์ดตัวละคร)
+
