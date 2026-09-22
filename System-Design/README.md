@@ -276,3 +276,24 @@
 
 ## 🆔 Operator Cards (ระบบบัตรพนักงาน Rhodes Island / การ์ดตัวละคร)
 
+**Operator Cards** ถูกออกแบบขึ้นเพื่อใช้เป็นเงื่อนไขสำคัญ สำหรับผู้เล่นในการลงทะเบียนเข้าร่วมภารกิจในระบบ **Homebrew AK5e** โดยผสมผสาน **Visual & Graphic Design** ให้สอดคล้องกับธีมจักรวาล *Arknights* ในรูปแบบของ **"บัตรพนักงาน Rhodes Island"**
+
+---
+
+### 📌 จุดประสงค์และการออกแบบ (Design Objective & Visual Identity)
+
+* **Lore-Friendly Visuals & Immersion:** ถ่ายทอดงานดีไซน์สไตล์ Sci-Fi/Tech UI ตามธีม Rhodes Island อ้างอิงระบบ Identity ของเกมต้นฉบับ เพื่อยกระดับความสมจริง (Immersion) ให้ผู้เล่นรู้สึกเป็นส่วนหนึ่งของจักรวาลตั้งแต่ขั้นตอนสร้างตัวละคร
+* **Player Verification & Entry Pass:** ใช้เป็นเอกสารยืนยันสถานะตัวละครและเงื่อนไขการอนุมัติเข้าร่วมภารกิจ (League Mission Registration) 
+* **Essential Data Architecture:** จัดวางเลย์เอาต์ข้อมูลสำคัญอย่างเป็นระบบ สะดวกต่อการ Quick Reference ทั้งสำหรับผู้เล่นและ Head DM ในระหว่างการรัน Session
+
+<img width="100%" alt="Operator Cards Concept" src="https://github.com/user-attachments/assets/5866a8bd-105a-4a7a-8f1c-3269e815cf40" />
+
+---
+
+### 🖼️ ตัวอย่างงานออกแบบ Operator Cards
+
+| 🪪 Card Showcase 1 | 🪪 Card Showcase 2 |
+| :---: | :---: |
+| <img width="100%" alt="operator cards (3)" src="https://github.com/user-attachments/assets/09137f54-5559-458b-8d7d-381bf0e1d0d3" /> | <img width="100%" alt="operator cards showcase" src="https://github.com/user-attachments/assets/32fa7e99-0ee1-4bc0-ade6-387cd0137d2b" /> |
+
+
