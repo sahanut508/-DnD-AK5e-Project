@@ -27,3 +27,19 @@
 | <img src="https://github.com/user-attachments/assets/54f4706b-b4b3-43fa-8e67-0edbad389c6d" width="100%" alt="Delivery Route 1" /> | <img src="https://github.com/user-attachments/assets/a3967ad5-268f-4139-accb-bd8e4205fd99" width="100%" alt="Delivery Route 2" /> | <img src="https://github.com/user-attachments/assets/875db54b-9d7e-43fd-992c-a89216fed0ba" width="100%" alt="Refugee Camp" /> |
 
 </details>
+
+---
+
+<details>
+<summary><b>2. OBSIDIAN OVERDRIVE (3 Maps) — Click to Expand</b></summary>
+
+### 📜 Quest Concept & Design Intent
+* **Concept:** เที่ยวพักร้อนจากศึกหนัดแต่ต้องเจอเหตุการ์ณที่ไม่คาดฝัน
+* **Level Design Features:** เน้นการพูดคุยการสังเกต การเลือกการกระทำเหตุการ์ณว่าจะทำอย่างไร
+
+| Map 1: Beachfront | Map 2: At the event | Map 3: Volcanic cave |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8582d3e3-47de-496a-83b3-b1762e099e62" />
+" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
+
+</details>
