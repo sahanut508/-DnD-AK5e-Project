@@ -78,6 +78,22 @@
 - 2.Armor Class : คือช่องแสดงค่า Armor Class ที่ได้จากการใส่ชุกเกราะหรือโล่และปัจจัยภายนอก โดยจะนำค่าจากช่อง Armor ช่อง DEX Modifier ช่อง Shield ช่อง Misc เอามารวมผลกันและแสดงที่ช่อง Armor Class รวมถึง Arts DR Physical DR คือช่องความต้านทานต่อดาเมจประเถทนั้นๆ ยกตัวอย่าง ตัวละครใส่ Light Combat Gear ที่มีค่า AC 13 +  Dexterity Modifier ของตัวละครซึ้งมีอยู่ 3 และชุดมี 2 (Physical) รวมถึง ใส่ Small Shield ที่มี 2 AC
 <img width="448" height="167" alt="image" src="https://github.com/user-attachments/assets/58691f4a-dedd-4d98-a82f-bf94c039e160" />
 
+- 3.Hit Point Maximum และ Current Hit Points เริ่มจาก Hit Point Maximum คือช่องใส่จำนวน HP ของผู้เล่นว่ามากน้อยแค่ไหน ส่วน Current Hit Points คือช่องแสดงค่าเต๋าในการทอยรักษาในช่วงพักยาว พักสั้น โดนจำนวนTotal จะขึ้นกับ Level และ Hit Dice ขึ้นกับ อาชีพที่เลือกมา ยกตัวอย่าง 
+ตัวละคร Guard Instructor เวล 5
+<img width="182" height="106" alt="image" src="https://github.com/user-attachments/assets/4160e86a-71ca-4489-be8b-00e06f237017" />
+ตัวละคร Marksman Heavyshot เวล 5
+<img width="184" height="105" alt="image" src="https://github.com/user-attachments/assets/653ff444-d187-468b-b43b-a44322549075" />
+
+- 4.METTLE คือช่องใส่ค่า METTLE ที่จะได้การทอย Death Saving
+- 5.SPEED และ INITIATIVE SPEEDคือความเร็วของตัวละครว่าใน 1 ตาสามารถเดินได้ไกลสุดแค่ไหน ซึ้งแต่ละเผ่าก็ต่างมีความเร็วที่ไม่เหมือนรวมถึงคลาสด้วยที่มีผล INITIATIVE คือลำดับเทริมของเราขึ้งค่านี้จะลิ้งกับค่า Dexterity Modifier
+- 6.Conductive คือช่องสำหรับใส่ค่าติดเชื้อซึ้งในเกมนี้จะมีสิ่งที่เรียกว่า เชื้อ oripathy เชื้อโรคที่จะลดค่าสุดของเลือดเราแต่แรกกับความรุมแรงของ art ที่มากขึ้น
+- 7.Martial DC เป็นช่องสำหรับคำนวนค่า Martial DC ของตัวละครนั้น บางครั้งจะมีบางสกิลที่ถามหา Martial DC ซึ้งทำมให้ผู้เล่นต้องไปคำนวนค่า Martial DC มาเองแต่เพื่อความสะดวกเลยเพิ่มช่องแสดง Martial DC รวมถึงสามารถเปลี่ยนจาก STR เป็ร DEX ได้
+- 8. Ability Stat Modifier คือ ช่องแปลงค่า Stats ที่สุ่นมาเป็นค่า Ability ในทันที โดนข้างล่างช่อง Modifier จะมีช่องใส่เลขทั้งหมด 2 แบบ คือสีเทาและสีขาว สีเทาคือสำหรับใส่เลขค่าสุ่นออกมาจะไม่มีการเพิ่มหรือลดเพื่อสะดวกต่อการจำ สีขาวคือช่องที่ใส่ค่าจากแหล่อื่น จะเผ่า อาชีพ หรือ Background Nationality
+     ตัวอย่าง Nada NATIONALITY Ægir SPECIES Aegir  BACKGROUND Unique Background - Ægir Sage: ปราชญ์เอเกียร์
+     CLASS Guard  SUBCLASS Weaponmaster Lv.4
+
+     <img width="364" height="343" alt="image" src="https://github.com/user-attachments/assets/0e968aed-a505-4bc3-86c3-9d42c6b9a3da" />
+
 
 
 
