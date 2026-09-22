@@ -1,4 +1,4 @@
-# 📊 Arknights Sheet (TTRPG Data & System Design)
+<img width="704" height="720" alt="Header (2)" src="https://github.com/user-attachments/assets/0c2f32fb-efc3-45d5-95ef-2a7c6ad43aab" /># 📊 Arknights Sheet (TTRPG Data & System Design)
 
 **System & Data Design**: ออกแบบและพัฒนาระบบคำนวณสถิติตัวละครอัตโนมัติผ่าน Google Sheets เพื่ออำนวยความสะดวกและลดข้อผิดพลาดในการประมวลผลข้อมูลของผู้เล่น รองรับการแปลงค่า Modifier, Ability, Saving Throws, Armor Class (AC), Hit Dice และระบบ Dynamic Background ตาม Nationality 
 
@@ -177,11 +177,11 @@
 
 
 โครงสร้างหน้า **CHARACTER** แบ่งออกเป็น 4 ส่วน ได้แก่:
-1. **CHARACTER NAME:** ข้อมูลพื้นฐาน สภาพแวดล้อม และระดับเลเวลตัวละคร
-2. **CHARACTER BACKSTORY:** ค่าสถานะหลัก ค่าพลังชีวิต และการคำนวณสำหรับการต่อสู้
-3. **Operator Skills  Zone:** ข้อมูลทักษะเฉพาะและการเชื่อมโยงกับช่องเก็บของ
-4. ADDITIONAL FEATURES & TRAITS
-5. TREASURE
+1. **CHARACTER NAME:** ข้อมูลพื้นฐานของตัวละคร
+2. **CHARACTER BACKSTORY:** เนื้อเรื่องของตัวละคร
+3. **Operator Skills:** ใส่ข้อมูลรายละเอียดของ Operator Skills
+4. ADDITIONAL FEATURES & TRAITS 
+5. TREASURE 
 
 
 
