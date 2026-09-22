@@ -39,7 +39,8 @@
 
 | Map 1: Beachfront | Map 2: At the event | Map 3: Volcanic cave |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8582d3e3-47de-496a-83b3-b1762e099e62" />
-" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/8582d3e3-47de-496a-83b3-b1762e099e62" width="100%"/> | <img width="6440" height="3500" alt="Siesta_M2" src="https://github.com/user-attachments/assets/6f10510c-1fc7-42c3-b1ab-9ec150df1fb1" />
+" width="100%"/> | <img width="3500" height="3500" alt="Siesta_Cave" src="https://github.com/user-attachments/assets/b511517b-d6ed-48b4-909a-50c7f69d92de" />
+" width="100%"/> |
 
 </details>
