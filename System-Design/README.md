@@ -1,6 +1,6 @@
 # Arknights sheet
 
-**System & Data Design**: ออกแบบและพัฒนาระบบคำนวณสถิติตัวละครผ่าน Excel Sheet อัตโนมัติ โดยระบบรองรับการแปลงค่า Modifier, Ability, Saving Throws, Armor Class (AC), Hit Dice และระบบ Background เฉพาะตาม Nationality เพื่ออำนวยความสะดวกในการจัดเก็บข้อมูลผู้เล่น
+**System & Data Design**: ออกแบบและพัฒนาระบบคำนวณสถิติตัวละครผ่าน Excel Sheet อัตโนมัติ โดยระบบรองรับการแปลงค่า Modifier, Ability, Saving Throws, Armor Class (AC), Hit Dice และระบบ Background เฉพาะตาม Nationality เพื่ออำนวยความสะดวกในการจัดเก็บข้อมูลผู้เล่น โดยมีต้นแบบจาก [GSheet v2.1](https://docs.google.com/spreadsheets/d/1ApmbXHTln99fPTUpanyQRTXNzXbQ8UBTt3Uq8xInQKw/edit?gid=359784640#gid=359784640) และ [Character Sheet.pdf](https://imgchest.com/p/qb4zpmejdyj)  จาก https://homebrewery.naturalcrit.com/share/mt8mcG6iRDbv#p503
 
 ---
 ''https://docs.google.com/spreadsheets/d/1Ol_KeIameLlpm_bOtab7GSYVnmM5bgL3HnwGv5CCGVE/edit?usp=sharing''
@@ -10,3 +10,5 @@
 # Stat
 
 <img width="704" height="720" alt="image" src="https://github.com/user-attachments/assets/30141620-74c3-4c8b-8c16-89fe7bca2ca9" />
+
+โดยหน้า Stat จะแบ่งได้ 3 ส่วนได้แก่ Header Combat & Core Stats และ Details & Inventory
