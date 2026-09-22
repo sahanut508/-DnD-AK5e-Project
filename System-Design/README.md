@@ -34,6 +34,10 @@
 <img width="820" height="378" alt="image" src="https://github.com/user-attachments/assets/e02bdd5f-6947-430d-bbdf-43cc1d80d6a5" />
 
 - 8.lv. โดย lv. จะลิ้งทั้งหมด 2 ในส่วน Combat & Core Stats ได้แก่ Prof. Bonus และ Total ซึ้งจะเปลี่ยนแปลงตามค่า lv ที่เปลี่ยนไป
+<img width="1063" height="216" alt="image" src="https://github.com/user-attachments/assets/7ec2f4d2-9df2-46b3-9b81-0f97c3a87ba0" />
+
+<img width="1065" height="203" alt="image" src="https://github.com/user-attachments/assets/41aedfe6-1778-4e8e-91bc-df43b166ce8e" />
+
 
 
 
