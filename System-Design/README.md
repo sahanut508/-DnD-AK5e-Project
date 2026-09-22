@@ -11,4 +11,8 @@
 
 <img width="704" height="720" alt="image" src="https://github.com/user-attachments/assets/30141620-74c3-4c8b-8c16-89fe7bca2ca9" />
 
-โดยหน้า Stat จะแบ่งได้ 3 ส่วนได้แก่ Header Combat & Core Stats และ Details & Inventory
+โดยหน้า Stat จะแบ่งได้ 3 ส่วนได้แก่ Header เอาไว้ใส่ข้อมูลเรื่องชื่อผู้เล่น ชื่อตัวละคร อาชีพ บ้านเกิด และ พท้นหลัง รวมถึง เลเวล Combat & Core Stats เอาไว้ใส่ค่า Stats ที่เป็นตัวละคร และ Details & Inventory
+
+<img width="704" height="720" alt="Header" src="https://github.com/user-attachments/assets/0c59e4eb-f315-418c-83cb-1d1fd6722503" />
+
+โดยเริ่มจาก ส่วน Header
