@@ -19,14 +19,11 @@
 <summary><b>1. Last_Delivery_of_Hope (3 Maps) — Click to Expand</b></summary>
 
 ### 📜 Quest Concept & Design Intent
-* **Concept:** สถานที่ผ่านการสู้รบและนี่คือผลลัพท์ที่ได้กลับมา
-* **Level Design Features:** เน้นพื้นที่และสถานการณ์ ที่ผู้เล่นเสียเดีย ผู้เล่นต้องหาทางแก้เหตุการ์ณนั้นให้ได้
+* **Concept:** นำเสนอผลลัพธ์และความเสียหายของพื้นที่หลังผ่านการสู้รบอย่างหนัก
+* **Level Design Features:** ออกแบบพื้นที่และสถานการณ์กดดันให้ผู้เล่นเป็นฝ่าย **เสียเปรียบ** บังคับให้ผู้เล่นต้องวิเคราะห์ภูมิประเทศและหาทางแก้ไขสถานการณ์เฉพาะหน้า
 
-| Map 1: Delivery Route | Map 2: Drop Zone | Map 2: Drop Zone |
+| Map 1: Delivery Route 1 | Map 2: Delivery Route 2 | Map 3: Refugee Camp |
 | :---: | :---: | :---: |
-| <img src="<img width="3072" height="2304" alt="map1-1" src="https://github.com/user-attachments/assets/54f4706b-b4b3-43fa-8e67-0edbad389c6d" />
-" width="100%"/> | <img src="[<img width="3072" height="2304" alt="map 1-2" src="https://github.com/user-attachments/assets/a3967ad5-268f-4139-accb-bd8e4205fd99" />
-]" width="100%"/> | <img src="<img width="1500" height="1000" alt="map 3" src="https://github.com/user-attachments/assets/875db54b-9d7e-43fd-992c-a89216fed0ba" />
-" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/54f4706b-b4b3-43fa-8e67-0edbad389c6d" width="100%" alt="Delivery Route 1" /> | <img src="https://github.com/user-attachments/assets/a3967ad5-268f-4139-accb-bd8e4205fd99" width="100%" alt="Delivery Route 2" /> | <img src="https://github.com/user-attachments/assets/875db54b-9d7e-43fd-992c-a89216fed0ba" width="100%" alt="Refugee Camp" /> |
 
 </details>
