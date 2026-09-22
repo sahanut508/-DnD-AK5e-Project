@@ -68,31 +68,79 @@
   </p>
 ---
 
-### 📌 ส่วนที่ 2: Combat & Core Stats Zone 
+### 📌 ส่วนที่ 2: Combat & Core Stats Zone (ระบบคำนวณการต่อสู้และสถานะหลัก)
 
-<img width="1063" height="562" alt="image" src="https://github.com/user-attachments/assets/25474f67-9576-4df0-94d5-9749b21ca51e" />
+<img width="100%" alt="Combat & Core Stats Overview" src="https://github.com/user-attachments/assets/25474f67-9576-4df0-94d5-9749b21ca51e" />
 
-โซน Combat & Core Stats Zone  ประกอบด้วย 12 ส่วน
+โซน **Combat & Core Stats** คือส่วนประมวลผลการต่อสู้และคำนวณสถิติอัตโนมัติ ประกอบด้วย 12 ส่วนหลัก:
 
-- 1.Prof. Bonus และ INSPIRATION : โดย Prof. Bonus จะขึ้นตาม Level ที่เพิ่มขึ้น เช่น 1-4 Prof. Bonus คือ 2 5-8 คือ 3 โดน Prof. Bonus มีส่วนลิ้งสำคัญได้แก่ Saving Throws กับ Skill ส่วน INSPIRATION เป็นช่วงสำหรับใส่จำนวน INSPIRATION ที่ได้รับมาจากการทำเงื่อนไขอะไรบางอย่างสำหรับใช้ในการทอยซ้ำ
-- 2.Armor Class : คือช่องแสดงค่า Armor Class ที่ได้จากการใส่ชุกเกราะหรือโล่และปัจจัยภายนอก โดยจะนำค่าจากช่อง Armor ช่อง DEX Modifier ช่อง Shield ช่อง Misc เอามารวมผลกันและแสดงที่ช่อง Armor Class รวมถึง Arts DR Physical DR คือช่องความต้านทานต่อดาเมจประเถทนั้นๆ ยกตัวอย่าง ตัวละครใส่ Light Combat Gear ที่มีค่า AC 13 +  Dexterity Modifier ของตัวละครซึ้งมีอยู่ 3 และชุดมี 2 (Physical) รวมถึง ใส่ Small Shield ที่มี 2 AC
-<img width="448" height="167" alt="image" src="https://github.com/user-attachments/assets/58691f4a-dedd-4d98-a82f-bf94c039e160" />
+---
 
-- 3.Hit Point Maximum และ Current Hit Points เริ่มจาก Hit Point Maximum คือช่องใส่จำนวน HP ของผู้เล่นว่ามากน้อยแค่ไหน ส่วน Current Hit Points คือช่องแสดงค่าเต๋าในการทอยรักษาในช่วงพักยาว พักสั้น โดนจำนวนTotal จะขึ้นกับ Level และ Hit Dice ขึ้นกับ อาชีพที่เลือกมา ยกตัวอย่าง 
-ตัวละคร Guard Instructor เวล 5
-<img width="182" height="106" alt="image" src="https://github.com/user-attachments/assets/4160e86a-71ca-4489-be8b-00e06f237017" />
-ตัวละคร Marksman Heavyshot เวล 5
-<img width="184" height="105" alt="image" src="https://github.com/user-attachments/assets/653ff444-d187-468b-b43b-a44322549075" />
+#### 1. Proficiency Bonus & Inspiration (ระบบโบนัสและแต้มพิเศษ)
+* **Proficiency Bonus (Prof. Bonus):** คำนวณอัตโนมัติตามระดับ Level ของตัวละคร (เช่น Lv.1-4 = +2, Lv.5-8 = +3) โดยค่านี้จะถูกดึงไปใช้บวกเพิ่มในส่วน `Saving Throws` และ `Skills`
+* **Inspiration:** ช่องบันทึกแต้ม Inspiration ที่ได้รับจากการเล่นตามเงื่อนไขพิเศษ สำหรับใช้ทอยสุ่มลูกเต๋าใหม่ (Reroll)
 
-- 4.METTLE คือช่องใส่ค่า METTLE ที่จะได้การทอย Death Saving
-- 5.SPEED และ INITIATIVE SPEEDคือความเร็วของตัวละครว่าใน 1 ตาสามารถเดินได้ไกลสุดแค่ไหน ซึ้งแต่ละเผ่าก็ต่างมีความเร็วที่ไม่เหมือนรวมถึงคลาสด้วยที่มีผล INITIATIVE คือลำดับเทริมของเราขึ้งค่านี้จะลิ้งกับค่า Dexterity Modifier
-- 6.Conductive คือช่องสำหรับใส่ค่าติดเชื้อซึ้งในเกมนี้จะมีสิ่งที่เรียกว่า เชื้อ oripathy เชื้อโรคที่จะลดค่าสุดของเลือดเราแต่แรกกับความรุมแรงของ art ที่มากขึ้น
-- 7.Martial DC เป็นช่องสำหรับคำนวนค่า Martial DC ของตัวละครนั้น บางครั้งจะมีบางสกิลที่ถามหา Martial DC ซึ้งทำมให้ผู้เล่นต้องไปคำนวนค่า Martial DC มาเองแต่เพื่อความสะดวกเลยเพิ่มช่องแสดง Martial DC รวมถึงสามารถเปลี่ยนจาก STR เป็ร DEX ได้
-- 8. Ability Stat Modifier คือ ช่องแปลงค่า Stats ที่สุ่นมาเป็นค่า Ability ในทันที โดนข้างล่างช่อง Modifier จะมีช่องใส่เลขทั้งหมด 2 แบบ คือสีเทาและสีขาว สีเทาคือสำหรับใส่เลขค่าสุ่นออกมาจะไม่มีการเพิ่มหรือลดเพื่อสะดวกต่อการจำ สีขาวคือช่องที่ใส่ค่าจากแหล่อื่น จะเผ่า อาชีพ หรือ Background Nationality
-     ตัวอย่าง Nada NATIONALITY Ægir SPECIES Aegir  BACKGROUND Unique Background - Ægir Sage: ปราชญ์เอเกียร์
-     CLASS Guard  SUBCLASS Weaponmaster Lv.4
+#### 2. Armor Class (AC Calculation & Damage Resistance)
+* **AC Automation:** คำนวณค่า Armor Class รวมอัตโนมัติจากการประมวลผลร่วมกันของช่อง `Armor`, `DEX Modifier`, `Shield` และ `Misc`
+* **Damage Resistance (DR):** มีช่องสำหรับติดตามค่าความต้านทานความเสียหายแยกประเภท ได้แก่ `Arts DR` (เวทมนตร์) และ `Physical DR` (กายภาพ)
+  * *ตัวอย่าง:* ตัวละครสวม Light Combat Gear (Base AC 13) + DEX Modifier (3) + Physical Resistance ชุด (2) + Small Shield (+2 AC) ระบบจะสรุปผลลัพธ์ AC รวมให้อัตโนมัติ
 
-     <img width="364" height="343" alt="image" src="https://github.com/user-attachments/assets/0e968aed-a505-4bc3-86c3-9d42c6b9a3da" />
+<img width="450" alt="Armor Class Calculation Example" src="https://github.com/user-attachments/assets/58691f4a-dedd-4d98-a82f-bf94c039e160" />
+
+#### 3. Hit Points & Hit Dice Management (พลังชีวิตและการพักผ่อน)
+* **Hit Point Maximum & Current HP:** ช่องบันทึกพลังชีวิตสูงสุดและพลังชีวิตปัจจุบัน
+* **Hit Dice Sync:** จำนวน `Total Hit Dice` จะอัปเดตตาม Level ของตัวละคร และชนิดเต๋าจะเปลี่ยนตาม `Class` ที่เลือกมา เพื่อใช้ทอยฟื้นฟู HP ช่วง Short/Long Rest
+
+<p float="left">
+  <img width="48%" alt="Guard Instructor Hit Dice" src="https://github.com/user-attachments/assets/4160e86a-71ca-4489-be8b-00e06f237017" />
+  <img width="48%" alt="Marksman Heavyshot Hit Dice" src="https://github.com/user-attachments/assets/653ff444-d187-468b-b43b-a44322549075" />
+</p>
+
+#### 4. Mettle (Death Saving Tracker)
+* ช่องบันทึกและติดตามสถานะค่า `METTLE` ที่ได้จากการทอยช่วยเหลือเมื่อตัวละครอยู่ในสภาวะเฉียดตาย (Death Saving Throws)
+
+#### 5. Speed & Initiative (การเคลื่อนที่และลำดับเทิร์น)
+* **Speed:** แสดงระยะการเคลื่อนที่ต่อเทิร์น ประมวลผลจากเงื่อนไขเฉพาะของแต่ละเผ่าพันธุ์ (Species) และอาชีพ (Class)
+* **Initiative:** คำนวณลำดับการออกแอ็กชันใน lượt ต่อสู้ โดยเชื่อมโยงค่าอัตโนมัติกับ `Dexterity Modifier`
+
+#### 6. Conductive / Oripathy Status (ระบบการติดเชื้อตาม Lore)
+* ช่องบันทึกระดับการติดเชื้อ **Oripathy** ซึ่งเป็นกลไกพิเศษประจำเกม (Risk/Reward Mechanics): ยิ่งระดับการติดเชื้อสูง จะยิ่งลดค่า HP สูงสุดของตัวละคร แต่จะได้รับโบนัสความรุนแรงของ Arts (เวทมนตร์) เพิ่มขึ้น
+
+#### 7. Martial DC Automation (คำนวณค่าความยากของท่าต่อสู้)
+* ระบบคำนวณค่า **Martial DC** อัตโนมัติ เพื่ออำนวยความสะดวกให้ผู้เล่นไม่ต้องคำนวณด้วยตนเองขณะใช้อบิลิตี้ต่อสู้ พร้อมฟังก์ชันสลับตัวแปรการคำนวณหลักระหว่าง `STR` หรือ `DEX` ได้ตามต้องการ
+
+#### 8. Ability Stat Modifiers & Saving Throws
+* **Ability Stat Modifier:** ระบบแปลงค่า Ability Score สุ่มพื้นฐานเป็นค่า Modifier อัตโนมัติ 
+  * *Gray Box (Base Stat):* สำหรับใส่ค่าสุ่มดิบ ไม่มีการเปลี่ยนแปลง เพื่อป้องกันความสับสน
+  * *White Box (Final Stat):* แสดงค่าสุดท้ายหลังบวกโบนัสจาก เผ่า, อาชีพ, Background และ Nationality
+* **Saving Throws Automation:** ดึงค่า Modifier มาแสดงอัตโนมัติ และเมื่อติ๊กเลือกความชำนาญ ระบบจะนำ `Prof. Bonus` มาบวกเพิ่มให้อัตโนมัติ
+
+<img width="500" alt="Ability Stat & Saving Throws Example" src="https://github.com/user-attachments/assets/6546b94c-0d3c-40a6-8287-1bf2140557c5" />
+
+#### 9. Skill Proficiency & Expertise Mechanics (ทักษะเฉพาะด้าน)
+* คำนวณค่าทักษะอิงตาม Ability Modifier ของแต่ละสาย โดยมีระบบรองรับการยกระดับความชำนาญ 2 รูปแบบ:
+  * พิมพ์ **`p`** (Proficiency): เพิ่มค่า `Prof. Bonus` เข้าไปในทักษะ
+  * พิมพ์ **`e`** (Expertise): เพิ่มค่า `Prof. Bonus x 2` เข้าไปในทักษะสำหรับผู้เล่นที่มีความเชี่ยวชาญพิเศษ
+
+<img width="100%" alt="Skill System Example" src="https://github.com/user-attachments/assets/eb1fa26b-e301-48f3-b558-d846aeaf0b89" />
+
+#### 10. Passive Wisdom / Perception
+* ช่องคำนวณค่าการรับรู้เชิงรับ (Passive Perception) อัตโนมัติ โดยอิงจากค่าทักษะ `Perception + 10`
+
+#### 11. Operator Skills (ระบบสกิลกดใช้และ SP Management)
+* จัดเก็บรายละเอียด Active Skills ของตัวละคร ประกอบด้วย: `Basic Skill Name`, `SP Cost` (รวมถึง Initial SP), `Charging Mode` (รูปแบบการสะสม SP), `Current SP` และ `Maximum SP`
+
+<img width="270" alt="Operator Skills Tracker" src="https://github.com/user-attachments/assets/270309-placeholder" />
+
+#### 12. Talents (ระบบความสามารถติดตัว)
+* บันทึกความสามารถ Passive Abilities ที่ทำงานตลอดเวลาโดยไม่ต้องบริหารจัดการค่า SP
+
+<img width="466" alt="Talents System" src="https://github.com/user-attachments/assets/100631f3-bdd1-4f50-8267-7b1fbe4b647d" />
+
+
+
+
+
 
 
 
