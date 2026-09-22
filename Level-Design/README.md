@@ -1,4 +1,4 @@
-<img width="3500" height="3500" alt="uu1" src="https://github.com/user-attachments/assets/00872d34-11e7-4eac-944f-dbcd49fbf409" /># 🗺️ Level Design & Battle Maps Showcase
+ 🗺️ Level Design & Battle Maps Showcase
 
 วางโครงสร้างภารกิจและสร้าง Level Design (Battle Maps) รวม 26 แผนที่ ผ่านโปรแกรม Dungeondraft และ Canva รองรับการเล่นแล้วกว่า 9 ภารกิจหลัก และงาน Commission 10 แผนที่
 
@@ -50,25 +50,32 @@
 
 ### 📜 Quest Concept & Design Intent
 * **Concept:** เรื่องราวสืบเนื่องจาก Last_Delivery_of_Hope ถ่ายทอดความขัดแย้งและรอยร้าวที่ยังคงแอบแฝงอยู่ภายในกลุ่มผู้ประสบภัย
-* **Level Design Features:** มุ่งเน้นการสำรวจและสืบสวนสภาพแวดล้อม (Environmental Investigation & Environmental Storytelling) บังคับให้ผู้เล่นต้องสังเกตรายละเอียดในฉากเพื่อเบาะแสและทางไปต่อ
+* **Level Design Features:** มุ่งเน้นการสำรวจและสืบสวนสภาพแวดล้อม บังคับให้ผู้เล่นต้องสังเกตรายละเอียดในฉากเพื่อเบาะแสและทางไปต่อ
 
 | Map 1: Camp Area 1 | Map 2: Camp Area 2 | Map 3: Sub-Zone 2.2 | Map 4: Camp Area 3 | Map 5: Camp Area 4 |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/6cd76dba-56bf-437b-9ab1-b78f3210eec4" width="100%" alt="uu1" /> | <img src="https://github.com/user-attachments/assets/acb20148-d266-412c-a4b4-0763b9c38058" width="100%" alt="uu2" /> | <img src="https://github.com/user-attachments/assets/83fe7af0-ce64-47a8-a29b-426a79991cba" width="100%" alt="uu2.2" /> | <img src="https://github.com/user-attachments/assets/2a9a9c62-ae21-4ca5-871d-d97730ebd378" width="100%" alt="uu3" /> | <img src="https://github.com/user-attachments/assets/169b823e-c871-4d9e-a90e-0629554241a9" width="100%" alt="uu4" /> |
 
 </details>
+
 ---
 
 <details>
-<summary><b>2. OBSIDIAN OVERDRIVE (3 Maps) — Click to Expand</b></summary>
+<summary><b>4. Traveling to Londinium (10 Maps) — Click to Expand</b></summary>
 
 ### 📜 Quest Concept & Design Intent
-* **Concept:** ภารกิจการรบในพื้นที่เมือง/สถาปัตยกรรมสไตล์ Obsidian
-* **Level Design Features:** พื้นที่เล่นหลายระดับ (Verticality) และจุดซุ่มยิงของ Ranged Units
+* **Concept:** มหากาพย์การเดินทางข้ามดินแดนที่เต็มไปด้วยอันตรายและการซุ่มสไลด์โจมตีตามเส้นทาง
+* **Level Design Features:** ออกแบบฉากรองรับ Encounter หลากหลายรูปแบบ เพิ่มความหลากหลายของสภาพแวดล้อม (Terrain Variety) และเส้นทางเดินสลับสับเปลี่ยน เพื่อสร้างความท้าทายในการวางกลยุทธ์รับมือกลุ่มศัตรูจำนวนมาก
 
-| Map 1: Entry | Map 2: Main Stage | Map 3: Escape Route |
-| :---: | :---: | :---: |
-| <img src="[Link รูป 1]" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
+#### 🗺️ Route Maps (1 - 5)
+| Map 1: Waypoint 1 | Map 2: Route 2 (variant A) | Map 3: Route 2 (variant B) | Map 4: Route 3 (variant A) | Map 5: Route 3 (variant B) |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b0885542-35ed-45d9-8e86-9a460974dd42" width="100%" alt="Map 1" /> | <img src="https://github.com/user-attachments/assets/e5d8899d-be53-4af7-a76c-90a4edebf80e" width="100%" alt="Map 2" /> | <img src="https://github.com/user-attachments/assets/4fafeb7e-ff2a-4294-a00e-748a3373a1cf" width="100%" alt="Map 3" /> | <img src="https://github.com/user-attachments/assets/6881dde9-af6f-4f9a-8c14-3fee22735aeb" width="100%" alt="Map 4" /> | <img src="https://github.com/user-attachments/assets/00f3d898-f33c-40e6-99e3-e90b9baa41f2" width="100%" alt="Map 5" /> |
+
+#### 🗺️ Route Maps (6 - 10)
+| Map 6: Route 3 (variant C) | Map 7: Route 4 (variant A) | Map 8: Route 4 (variant B) | Map 9: Route 5 (variant A) | Map 10: Route 5 (variant B) |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1ad1d2b2-b2c2-4a73-8e30-657433162666" width="100%" alt="Map 6" /> | <img src="https://github.com/user-attachments/assets/c91a162e-17dc-46a9-b7f2-f4711b04a135" width="100%" alt="Map 7" /> | <img src="https://github.com/user-attachments/assets/6793850a-8ef1-4a73-89e6-1a4d7ff8f3c6" width="100%" alt="Map 8" /> | <img src="https://github.com/user-attachments/assets/5fae917d-4282-42f2-9ff1-9d3a8a3d6645" width="100%" alt="Map 9" /> | <img src="https://github.com/user-attachments/assets/0467277f-6e6d-41e3-bb32-d33c1b557659" width="100%" alt="Map 10" /> |
 
 </details>
 
