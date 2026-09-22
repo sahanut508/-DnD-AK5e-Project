@@ -170,19 +170,44 @@
 
 <img width="100%" alt="Custom Layout Example" src="https://github.com/user-attachments/assets/c1491e81-43e6-4012-b637-1b20ea284992" />
 
+## 👤 2. หน้า CHARACTER (ข้อมูลตัวละครและเนื้อเรื่องเชิงลึก)
+
+<img width="100%" alt="Character Page Overview" src="https://github.com/user-attachments/assets/f6ef96f2-ffd1-41b6-93d3-e4b9476a7763" />
+
+หน้า **CHARACTER** ออกแบบมาเพื่อให้ผู้เล่นสามารถบันทึกข้อมูลเชิงลึก ด้านรูปลักษณ์ เนื้อเรื่องประวัติความเป็นมา และรายละเอียดสกิลอย่างรอบด้าน โดยแบ่งออกเป็น 5 ส่วนหลัก:
+
 ---
-## ⚔️ 2. หน้า CHARACTER
 
-<img width="682" height="768" alt="image" src="https://github.com/user-attachments/assets/f6ef96f2-ffd1-41b6-93d3-e4b9476a7763" />
+### 📌 รายละเอียดโครงสร้างหน้า CHARACTER
 
+#### 1. Character Identity & Physical Appearance (ข้อมูลพื้นฐานและลักษณะทางกายภาพ)
+* **Character Name Sync:** ชื่อตัวละครบางครั้งตัวละครอาจจะมีใช้ code name gxHo=njv-v'9o
+* **Physical Profile:** เพิ่มช่องบันทึกรายละเอียดทางกายภาพครบถ้วน ได้แก่ **AGE (อายุ), HEIGHT (ส่วนสูง), WEIGHT (น้ำหนัก), EYES (สีตา), SKIN (สีผิว)** และ **HAIR (สีผม)**
+* **Oripathy Status Tracker:** ช่องระบุรายละเอียดสถานะการติดเชื้อ Oripathy เช่นเดียวกับหน้า `Stat` แต่นำเสนอช่องบันทึกเพิ่มเติมสำหรับระบุ **ตำแหน่งการติดเชื้อบนร่างกาย** เพื่อความสมจริงตาม Lore ของ Arknights
 
-โครงสร้างหน้า **CHARACTER** แบ่งออกเป็น 4 ส่วน ได้แก่:
-1. **CHARACTER NAME:** ข้อมูลพื้นฐานของตัวละคร
-2. **CHARACTER BACKSTORY:** เนื้อเรื่องของตัวละคร
-3. **Operator Skills:** ใส่ข้อมูลรายละเอียดของ Operator Skills
-4. ADDITIONAL FEATURES & TRAITS 
-5. TREASURE 
+<img width="100%" alt="Character Identity Example" src="https://github.com/user-attachments/assets/ba5448a0-4a31-4eb8-9503-e1ae07af4468" />
 
+---
 
+#### 2. Character Backstory & Portrait (รูปภาพและปูมหลังตัวละคร)
+* **Character Portrait Area:** พื้นที่สำหรับวางรูปภาพหรืออาร์ตเวิร์กของตัวละคร
+* **Narrative Section:** ช่องสำหรับเขียนปูมหลัง ประวัติความเป็นมา และแรงจูงใจของตัวละครได้อย่างอิสระ เพื่อช่วยสร้างมิติและความลึกให้กับตัวละครในการสวมบทบาท 
+
+---
+
+#### 3. Operator Skills: Comprehensive Details (อธิบายรายละเอียดสกิลเชิงลึก)
+* ต่อยอดจากส่วน Operator Skills ในหน้า `Stat` โดยให้พื้นที่ในการอธิบายรายละเอียดเชิงลึกของสกิล เช่น **คำอธิบายความสามารถแบบเต็ม, ระยะเวลาส่งผล, เงื่อนไขการใช้งาน** และ **ขอบเขตพื้นที่ผลกระทบ**
+
+<img width="100%" alt="Operator Skills Detailed View" src="https://github.com/user-attachments/assets/e43c6f07-470b-4e2c-92e6-bdd9040df143" />
+
+---
+
+#### 4. Additional Features & Traits (ความสามารถและคุณลักษณะส่วนขยาย)
+* พื้นที่สำรองสำหรับบันทึกความสามารถพิเศษ (Traits & Passives) เพิ่มเติม ในกรณีที่ตัวละครมีสกิลจากเผ่าพันธุ์ อาชีพ หรือ Background จำนวนมากจนเกินขีดจำกัดของหน้าแรก
+
+---
+
+#### 5. Treasure & Story Items (ของมีค่าและไอเทมสำคัญตามเนื้อเรื่อง)
+* ช่องบันทึกพิเศษสำหรับจัดเก็บ **สิ่งของมูลค่าสูง, โบราณวัตถุ (Relics)** หรือ **ไอเทมสำคัญในภารกิจ (Quest Items / Narrative Prop)** เพื่อแยกความสำคัญออกจากยุทโธปกรณ์และไอเทมสวมใส่ทั่วไป
 
   
