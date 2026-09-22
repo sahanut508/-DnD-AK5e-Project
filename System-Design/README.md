@@ -19,7 +19,7 @@
 <img width="1784" height="192" alt="image" src="https://github.com/user-attachments/assets/bfe92a59-0ac1-4798-8e49-ac48661a07ba" />
 - 1.CHARACTER NAME สำหรับใส่ชื่อตังละคร
 - 2.PLAYER NAME สำหรับใส่ผู้เล่น
-- 3. 3.1 ใส่ class ซึ้งใน Ak5e Homebrew จะมีอาชีพหลักทั้งหมด 8 อาชีพ และ อาชีพย่อยๆของอาชีพหลักรวมทั้งหมด 54  อาชีพ โดยมี Caster 6 Defender 7 Guard 11 Marksman 8 Medic 5 Specialist 7 Supporter 5 Vanguard 5 โดยใน Arknights sheet อันนี้หากเราเลือกอาชีพหลักได้ ในช่อง SUBCLASS ก็จะมีอาชีพย่อยในคลาสหลักให้เลือก
+- 3.และ 3.1 ใส่ class ซึ้งใน Ak5e Homebrew จะมีอาชีพหลักทั้งหมด 8 อาชีพ และ อาชีพย่อยๆของอาชีพหลักรวมทั้งหมด 54  อาชีพ โดยมี Caster 6 Defender 7 Guard 11 Marksman 8 Medic 5 Specialist 7 Supporter 5 Vanguard 5 โดยใน Arknights sheet อันนี้หากเราเลือกอาชีพหลักได้ ในช่อง SUBCLASS ก็จะมีอาชีพย่อยในคลาสหลักให้เลือก
 ภาพตัวอย่าง
 <img width="303" height="289" alt="image" src="https://github.com/user-attachments/assets/013ac5e1-c05e-4d69-b0db-f1002de46fcf" />
 <img width="297" height="259" alt="image" src="https://github.com/user-attachments/assets/4d317dc3-51d5-4f19-b150-539384b74d86" />
