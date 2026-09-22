@@ -147,7 +147,7 @@
 
 #### 1. Other Proficiencies & Languages (ความชำนาญเฉพาะและภาษา)
 * ช่องบันทึกความชำนาญของตัวละครในด้านต่างๆ ได้แก่ **อาวุธ (Weapons), ชุดเกราะ (Armor), เครื่องมืออุปกรณ์ (Tools), ยานพาหนะ (Vehicles)** และ **ภาษา (Languages)** 
-* รองรับการบันทึกข้อมูลที่ได้รับมาจากเงื่อนไขหลากหลาย เช่น เผ่าพันธุ์ (Species), อาชีพ (Class), ปูมหลัง (Background), สัญชาติ (Nationality) หรือการฝึกฝนเพิ่มเติมระหว่างการเล่น
+* รองรับการบันทึกข้อมูลที่ได้รับมาจากเงื่อนไขหลากหลาย เช่น เผ่าพันธุ์, อาชีพ, Background, Nationality หรือการฝึกฝนเพิ่มเติมระหว่างการเล่น
 
 <img width="277" alt="Other Proficiencies & Languages" src="https://github.com/user-attachments/assets/2b163c71-470f-4809-abc7-8bdd9b180543" />
 
