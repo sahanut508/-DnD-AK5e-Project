@@ -23,8 +23,8 @@
 * **Level Design Features:** เน้นพื้นที่และสถานการณ์ ที่ผู้เล่นเสียเดีย ผู้เล่นต้องหาทางแก้เหตุการ์ณนั้นให้ได้
 
 | Map 1: Delivery Route | Map 2: Drop Zone | Map 2: Drop Zone |
-| :---: | :---: |
-| <img src="<img width="3072" height="2304" alt="map 1" src="https://github.com/user-attachments/assets/f35fb526-ce30-45f6-bcf3-02a973466649" />
-" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 1]" width="100%"/> |
+| :---: | :---: | :---: |
+| <img src="[Link รูป 1]" width="100%"/> | <img src="[<img width="3072" height="2304" alt="map 1-2" src="https://github.com/user-attachments/assets/a3967ad5-268f-4139-accb-bd8e4205fd99" />
+]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
 
 </details>
