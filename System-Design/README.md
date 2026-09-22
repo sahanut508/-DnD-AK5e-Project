@@ -144,7 +144,6 @@
 
 โซน **Details & Inventory** ถูกออกแบบขึ้นเพื่อจัดเก็บข้อมูลคุณสมบัติเสริม และติดตามทรัพยากรการใช้งานของตัวละครอย่างเป็นระบบ โดยแบ่งออกเป็น 3 ส่วนหลัก:
 
----
 
 #### 1. Other Proficiencies & Languages (ความชำนาญเฉพาะและภาษา)
 * ช่องบันทึกความชำนาญของตัวละครในด้านต่างๆ ได้แก่ **อาวุธ (Weapons), ชุดเกราะ (Armor), เครื่องมืออุปกรณ์ (Tools), ยานพาหนะ (Vehicles)** และ **ภาษา (Languages)** 
@@ -152,7 +151,6 @@
 
 <img width="277" alt="Other Proficiencies & Languages" src="https://github.com/user-attachments/assets/2b163c71-470f-4809-abc7-8bdd9b180543" />
 
----
 
 #### 2. Features & Traits (คุณลักษณะและความสามารถติดตัว)
 * พื้นที่สำหรับจัดเก็บรายละเอียดความสามารถพิเศษ (Traits & Passives) ที่ได้มาจาก เผ่าพันธุ์, ปูมหลัง, สัญชาติ และสายอาชีพ 
@@ -160,14 +158,12 @@
 
 <img width="445" alt="Features & Traits" src="https://github.com/user-attachments/assets/cb2e576f-3c94-4866-aed9-bc1c5901f6f5" />
 
----
 
 #### 3. Resources, Charges, & Abilities (ระบบติดตามจำนวนครั้งการใช้งาน)
 * ช่องสำหรับบริหารจัดการความสามารถหรือสกิลที่มี **จำนวนครั้งในการใช้งานจำกัด (Limited Uses / Resource Charges)** เช่น สกิลที่ฟื้นฟูหลังจากการพักผ่อน (Short/Long Rest) หรือโควตาการใช้อบิลิตี้พิเศษต่อวัน
 
 <img width="367" alt="Resources & Charges" src="https://github.com/user-attachments/assets/cceb18ea-27fa-4fae-9509-4e7a7991276d" />
 
----
 
 💡 **Customizable Workspace (อิสระในการจัดสรรพื้นที่ใช้งาน)**
 ระบบถูกออกแบบมาให้ยืดหยุ่นสูง ผู้เล่นสามารถเลือกจัดระเบียบ วางตำแหน่ง หรือแบ่งกลุ่มข้อมูลในทั้ง 3 ส่วนนี้ได้อย่างเป็นอิสระตามความถนัดและการใช้งานจริง เพื่อสร้าง UX (User Experience) ที่สะดวกรวดเร็วที่สุดสำหรับตัวละครนั้นๆ
