@@ -183,7 +183,7 @@
 ### 📌 รายละเอียดโครงสร้างหน้า CHARACTER
 
 #### 1. Character Identity & Physical Appearance (ข้อมูลพื้นฐานและลักษณะทางกายภาพ)
-* **Character Name Sync:** ชื่อตัวละครบางครั้งตัวละครอาจจะมีใช้ code name gxHo=njv-v'9o
+* **Character Name Sync:** ชื่อตัวละครบางครั้งตัวละครอาจจะมีใช้ code name แทนชื่อจริง
 * **Physical Profile:** เพิ่มช่องบันทึกรายละเอียดทางกายภาพครบถ้วน ได้แก่ **AGE (อายุ), HEIGHT (ส่วนสูง), WEIGHT (น้ำหนัก), EYES (สีตา), SKIN (สีผิว)** และ **HAIR (สีผม)**
 * **Oripathy Status Tracker:** ช่องระบุรายละเอียดสถานะการติดเชื้อ Oripathy เช่นเดียวกับหน้า `Stat` แต่นำเสนอช่องบันทึกเพิ่มเติมสำหรับระบุ **ตำแหน่งการติดเชื้อบนร่างกาย** เพื่อความสมจริงตาม Lore ของ Arknights
 
@@ -207,5 +207,31 @@
 
 #### 5. Treasure (ของมีค่าและไอเทมสำคัญ)
 * ช่องบันทึกพิเศษสำหรับจัดเก็บ **สิ่งของมูลค่าสูง, โบราณวัตถุ (Relics)** หรือ **ไอเทมสำคัญในภารกิจ (Quest Items / Narrative Prop)** เพื่อแยกความสำคัญออกจากยุทโธปกรณ์และไอเทมสวมใส่ทั่วไป
-
   
+---
+
+## 🎒 3. หน้า Inventory (ระบบจัดเก็บไอเทมและอุปกรณ์ต่อสู้)
+
+<img width="100%" alt="Inventory Page Overview" src="https://github.com/user-attachments/assets/c85ebce9-e6e1-43e4-a444-8e1dc1809395" />
+
+หน้า **Inventory** ถูกออกแบบมาเพื่อจัดการไอเทมสัมภาระ อุปกรณ์สวมใส่ และยุทโธปกรณ์ต่อสู้ พร้อมระบบคำนวณน้ำหนักบรรทุกอัตโนมัติ โดยแบ่งออกเป็น 2 ส่วนหลัก:
+
+---
+
+### 📌 รายละเอียดโครงสร้างหน้า Inventory
+
+#### 1. Inventory Items & Encumbrance System (ไอเทมทั่วไปและระบบคำนวณน้ำหนัก)
+* **LMD Currency Sync:** ดึงค่าเงิน LMD มาแสดงผลเชื่อมโยงกันอย่างเรียลไทม์กับหน้า `Stat`
+* **Item Details:** บันทึกชื่อไอเทม (Item Name), คำอธิบาย (Description) และน้ำหนัก (Weight)
+* **Automated Encumbrance Calculation:** ระบบคำนวณขีดความสามารถในการแบกน้ำหนักสูงสุด (Carrying Capacity) อัตโนมัติ โดยดึงค่า `STR (Strength)` จากหน้า `Stat` มาคำนวณร่วมกับน้ำหนักรวมของไอเทมทั้งหมดในช่องเก็บของ และสรุปผลลัพธ์เป็น **เปอร์เซ็นต์น้ำหนักบรรทุก (%)** ให้ทันทีเพื่อช่วยเตือนผู้เล่น
+
+
+#### 2. Weapons Management & Customization (ระบบคลังและรายละเอียดอาวุธ)
+* บันทึกข้อมูลยุทโธปกรณ์เชิงลึก รองรับทั้งอาวุธมาตรฐานและอาวุธสั่งทำพิเศษ (Custom Weapons):
+  * **Weapon Name & Category:** ระบุชื่อและประเภทของอาวุธอย่างชัดเจน (`Light Melee`, `Heavy Melee`, `Special Melee`, `Light Ranged`, `Heavy Ranged`, `Special Ranged`)
+  * **Damage & Properties:** บันทึกค่าความเสียหาย (Damage Roll) และคุณลักษณะเฉพาะของอาวุธ (Weapon Properties)
+  * **Weight & Cost:** ติดตามน้ำหนักและมูลค่าราคาของอาวุธ
+  * **Special Traits & Description:** ช่องบันทึกความสามารถพิเศษประจำอาวุธ และคำอธิบายปูมหลังของอาวุธ
+  * **Weapon Visuals:** ช่องสำหรับแนบรูปภาพหรือภาพประกอบของอาวุธเพื่อความสมจริง
+
+<img width="100%" alt="Weapons Section Example" src="https://github.com/user-attachments/assets/260b7dad-ad29-424a-be13-7c64328261f2" />
