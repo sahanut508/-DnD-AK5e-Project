@@ -24,13 +24,15 @@
 โครงสร้างหน้า **Stat** แบ่งออกเป็น 3 ส่วนหลัก ได้แก่:
 1. **Header Zone:** ข้อมูลพื้นฐาน สภาพแวดล้อม และระดับเลเวลตัวละคร
 2. **Combat & Core Stats Zone:** ค่าสถานะหลัก ค่าพลังชีวิต และการคำนวณสำหรับการต่อสู้
-3. **Details & Inventory Zone:** ข้อมูลทักษะเฉพาะและการเชื่อมโยงกับช่องเก็บของ
+3. **Details Zone:** ข้อมูลทักษะเฉพาะและการเชื่อมโยงกับช่องเก็บของ
 
 ---
 
 ### 📌 ส่วนที่ 1: Header Zone (การปรับแต่งและเงื่อนไขตัวละคร)
 
 <img width="704" alt="Header Overview" src="https://github.com/user-attachments/assets/0c59e4eb-f315-418c-83cb-1d1fd6722503" />
+
+<img width="704" height="720" alt="Header (2)" src="https://github.com/user-attachments/assets/ae3e57eb-74bc-4a48-befe-a62b0acd5eed" />
 
 โซน Header ประกอบด้วย 8 ช่องข้อมูลหลักพร้อมระบบคำนวณอัตโนมัติแบบไดนามิก:
 
