@@ -24,7 +24,9 @@
 
 | Map 1: Delivery Route | Map 2: Drop Zone | Map 2: Drop Zone |
 | :---: | :---: | :---: |
-| <img src="[Link รูป 1]" width="100%"/> | <img src="[<img width="3072" height="2304" alt="map 1-2" src="https://github.com/user-attachments/assets/a3967ad5-268f-4139-accb-bd8e4205fd99" />
-]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
+| <img src="<img width="3072" height="2304" alt="map1-1" src="https://github.com/user-attachments/assets/54f4706b-b4b3-43fa-8e67-0edbad389c6d" />
+" width="100%"/> | <img src="[<img width="3072" height="2304" alt="map 1-2" src="https://github.com/user-attachments/assets/a3967ad5-268f-4139-accb-bd8e4205fd99" />
+]" width="100%"/> | <img src="<img width="1500" height="1000" alt="map 3" src="https://github.com/user-attachments/assets/875db54b-9d7e-43fd-992c-a89216fed0ba" />
+" width="100%"/> |
 
 </details>
