@@ -130,7 +130,7 @@
 #### 11. Operator Skills (ระบบสกิลกดใช้และ SP Management)
 * จัดเก็บรายละเอียด Active Skills ของตัวละคร ประกอบด้วย: `Basic Skill Name`, `SP Cost` (รวมถึง Initial SP), `Charging Mode` (รูปแบบการสะสม SP), `Current SP` และ `Maximum SP`
 
-<img width="270" alt="Operator Skills Tracker" src="https://github.com/user-attachments/assets/270309-placeholder" />
+<img width="270" height="309" alt="image" src="https://github.com/user-attachments/assets/1bc5a0b3-ab0f-4a39-9815-ac2a75df9026" />
 
 #### 12. Talents (ระบบความสามารถติดตัว)
 * บันทึกความสามารถ Passive Abilities ที่ทำงานตลอดเวลาโดยไม่ต้องบริหารจัดการค่า SP
