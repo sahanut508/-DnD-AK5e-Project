@@ -24,9 +24,16 @@
 <img width="303" height="289" alt="image" src="https://github.com/user-attachments/assets/013ac5e1-c05e-4d69-b0db-f1002de46fcf" />
 <img width="297" height="259" alt="image" src="https://github.com/user-attachments/assets/4d317dc3-51d5-4f19-b150-539384b74d86" />
 
-- 4. LMD คือช่องค่าเงินของเกม โดยช่องนี้สามารถลิ้งไปยัง ช่อง LMD ในหน้า Inventory ได้
-- 5. NATIONALITY โดยในเกมนี้ที่เกิดของเรามีผลต่อตัวละครที่เราสร้างขึ้น เช่นสกิลจากบ้านเกิด ภาษา ร่วมถึง BACKGROUND พิเศษใน NATIONALITY นั้นๆโดยปัจุบันมี NATIONALITY ทั้งหมด 20
-  6. SPECIES สำหรับใส่เผ่าที่ผู้เล่นเลือก โดยเกมนี้แต่ละมีเผ่าต่างมีความสามารถฌฉพาะตัวโดนตอนนี้จะมีทั้งหมด 20 เผ่าและ 6 เผ่าพิเศษ
-  7. 
+- 4.LMD คือช่องค่าเงินของเกม โดยช่องนี้สามารถลิ้งไปยัง ช่อง LMD ในหน้า Inventory ได้
+- 5.NATIONALITY โดยในเกมนี้ที่เกิดของเรามีผลต่อตัวละครที่เราสร้างขึ้น เช่นสกิลจากบ้านเกิด ภาษา ร่วมถึง BACKGROUND พิเศษใน NATIONALITY นั้นๆโดยปัจุบันมี NATIONALITY ทั้งหมด 20
+- 6.SPECIES สำหรับใส่เผ่าที่ผู้เล่นเลือก โดยเกมนี้แต่ละมีเผ่าต่างมีความสามารถฌฉพาะตัวโดนตอนนี้จะมีทั้งหมด 20 เผ่าและ 6 เผ่าพิเศษ
+- 7.BACKGROUND สำหรับใส่ BACKGROUND ที่เผ่าเลือกมาโดนแต่ละ BACKGROUND ก็มีความสารถที่ต่างกันโดย BACKGROUND ปกติจะมีทั้งหมด 10 แต่จะมี BACKGROUND พิเศษที่โผล่ขึ้นมาถ้าหากเลือก NATIONALITY ใด NATIONALITY นึง ยกตัวอย่าง หากเราเรื่อง NATIONALITY เป็น Siracusa ในช่อง BACKGROUND บอกเหนือ 10 BACKGROUND ทั่วไปจะปรากฏ BACKGROUND แบบพิเศษขึ้นก็คือ Unique Background - Famiglia Member: สมาชิกตระกูล
+
+<img width="704" height="391" alt="image" src="https://github.com/user-attachments/assets/db8cf3ce-4b81-40ed-8263-439f0ed31fe9" />
+
+<img width="820" height="378" alt="image" src="https://github.com/user-attachments/assets/e02bdd5f-6947-430d-bbdf-43cc1d80d6a5" />
+
+
+
 
 
