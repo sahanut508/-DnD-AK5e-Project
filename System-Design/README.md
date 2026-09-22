@@ -17,7 +17,7 @@
 
 ---
 
-## ⚔️ 1. หน้า Stat (Core Stats & Mechanics)
+## ⚔️ 1. หน้า Stat 
 
 <img width="704" alt="Stat Overview" src="https://github.com/user-attachments/assets/30141620-74c3-4c8b-8c16-89fe7bca2ca9" />
 
@@ -170,11 +170,18 @@
 
 <img width="100%" alt="Custom Layout Example" src="https://github.com/user-attachments/assets/c1491e81-43e6-4012-b637-1b20ea284992" />
 
+---
+## ⚔️ 2. หน้า CHARACTER
+
+<img width="682" height="768" alt="image" src="https://github.com/user-attachments/assets/f6ef96f2-ffd1-41b6-93d3-e4b9476a7763" />
 
 
-
-
-
+โครงสร้างหน้า **CHARACTER** แบ่งออกเป็น 4 ส่วน ได้แก่:
+1. **CHARACTER NAME:** ข้อมูลพื้นฐาน สภาพแวดล้อม และระดับเลเวลตัวละคร
+2. **CHARACTER BACKSTORY:** ค่าสถานะหลัก ค่าพลังชีวิต และการคำนวณสำหรับการต่อสู้
+3. **Operator Skills  Zone:** ข้อมูลทักษะเฉพาะและการเชื่อมโยงกับช่องเก็บของ
+4. ADDITIONAL FEATURES & TRAITS
+5. TREASURE
 
 
 
