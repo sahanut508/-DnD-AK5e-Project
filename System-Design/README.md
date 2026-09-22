@@ -238,10 +238,36 @@
 
 ---
 
-## 🎒 4. หน้า Art  
+## 🔮 4. หน้า Arts (ระบบเวทมนตร์และคาถา Originium Arts)
 
-<img width="751" height="206" alt="image" src="https://github.com/user-attachments/assets/93ae4c3a-8776-4336-b515-31ee5ede112c" />
+<img width="100%" alt="Arts Page Overview" src="https://github.com/user-attachments/assets/93ae4c3a-8776-4336-b515-31ee5ede112c" />
 
-โดย หน้า Art จะมี 2 ส่วนหลักได้แแก่
-1. Spellcasting Header
-2. Spell List
+หน้า **Arts** ออกแบบมาเพื่อบริหารจัดการเวทมนตร์ (Originium Arts) แต้มการร่าย (Arts Points) และประมวลผลค่าสถิติการโจมตีทางเวทมนตร์อัตโนมัติ โดยแบ่งออกเป็น 2 ส่วนหลัก:
+
+---
+
+### 📌 รายละเอียดโครงสร้างหน้า Arts
+
+#### 1. Arts Header & Automated Calculations (ระบบประมวลผลค่าการร่าย)
+* **Maximum Arts Level:** แสดงเพดานระดับเวทมนตร์สูงสุดที่ตัวละครใช้ได้ ซึ่งถูกกำหนดตามเงื่อนไขของ Class หรือความสามารถเฉพาะทางของเผ่าพันธุ์
+* **Maximum Arts Points (AP):** แสดงทรัพยากรแต้มพลังเวทสูงสุดสำหรับการร่ายคาถา
+* **Spellcasting Ability Selection & Automated Sync:** ผู้เล่นสามารถเลือกค่าพลังเวทหลัก ได้แก่ **`INT` (Intelligence), `WIS` (Wisdom)** หรือ **`CHA` (Charisma)** 
+  * เมื่อเลือกแล้ว ระบบจะดึง Modifier จากหน้า `Stat` มาคำนวณหาค่า **Spell Save DC** และ **Spell Attack Bonus** ให้อัตโนมัติทันที
+* **Oripathy Lore Integration:** หากตัวละครมีระดับการติดเชื้อ **Oripathy** ค่าโบนัสการติดเชื้อจะถูกนำมาบวกเพิ่มไปยัง `Spell Save DC` และ `Spell Attack Bonus` อัตโนมัติ เพื่อสะท้อนถึงการแลกเปลี่ยนพลังชีวิตกับความรุนแรงของเวทมนตร์ตาม Lore
+
+<img width="100%" alt="Arts Header Example" src="https://github.com/user-attachments/assets/9f27d22c-7622-44d3-8995-2c10f8e28c96" />
+
+---
+
+#### 2. Arts List & Spell Mechanics (รายการเวทมนตร์และรายละเอียดยุทโธปกรณ์เวท)
+ตารางบันทึกคาถาเวทมนตร์แบบละเอียด รองรับการลงข้อมูลที่จำเป็นสำหรับการต่อสู้ครบถ้วนทั้ง 8 ช่อง:
+* **Art Name:** ชื่อคาถา/เวทมนตร์
+* **Level / School:** ระดับชั้นเวทมนตร์และสำนักสายเวท (Magic School)
+* **AP Cost:** ค่าแต้มพลังเวทที่ต้องจ่ายในการร่าย
+* **Casting Time:** ประเภทแอ็กชันที่ต้องใช้ร่าย (`Action`, `Bonus Action`, `Reaction`)
+* **Range:** ระยะหวังผลหรือระยะการทำงานของเวทมนตร์
+* **Components:** องค์ประกอบในการร่าย เช่น **V** (Verbal - วาจา/เสียง) หรือ **S** (Somatic - ท่าทาง/มือ)
+* **Duration:** ระยะเวลาการแสดงผล (เช่น `Instantaneous`, `1 Minute`, หรือ `Concentration` ที่ต้องรักษาสมาธิ)
+* **Description & Scaling:** คำอธิบายผลลัพธ์ของเวทมนตร์ (ความเสียหาย, สถานะผิดปกติ, การรักษา) รวมถึงผลลัพธ์โบนัสเมื่อจ่ายแต้มร่ายในระดับที่สูงขึ้น (Upcasting)
+
+<img width="100%" alt="Arts List Example" src="https://github.com/user-attachments/assets/ca3dfbac-a569-4f22-858b-0a7a52a81a6d" />
