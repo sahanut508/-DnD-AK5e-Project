@@ -23,7 +23,10 @@
 ภาพตัวอย่าง
 <img width="303" height="289" alt="image" src="https://github.com/user-attachments/assets/013ac5e1-c05e-4d69-b0db-f1002de46fcf" />
 <img width="297" height="259" alt="image" src="https://github.com/user-attachments/assets/4d317dc3-51d5-4f19-b150-539384b74d86" />
+
 - 4. LMD คือช่องค่าเงินของเกม โดยช่องนี้สามารถลิ้งไปยัง ช่อง LMD ในหน้า Inventory ได้
-- 5. 
+- 5. NATIONALITY โดยในเกมนี้ที่เกิดของเรามีผลต่อตัวละครที่เราสร้างขึ้น เช่นสกิลจากบ้านเกิด ภาษา ร่วมถึง BACKGROUND พิเศษใน NATIONALITY นั้นๆโดยปัจุบันมี NATIONALITY ทั้งหมด 20
+  6. SPECIES สำหรับใส่เผ่าที่ผู้เล่นเลือก โดยเกมนี้แต่ละมีเผ่าต่างมีความสามารถฌฉพาะตัวโดนตอนนี้จะมีทั้งหมด 20 เผ่าและ 6 เผ่าพิเศษ
+  7. 
 
 
