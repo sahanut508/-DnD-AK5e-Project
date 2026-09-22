@@ -137,6 +137,15 @@
 
 <img width="466" alt="Talents System" src="https://github.com/user-attachments/assets/100631f3-bdd1-4f50-8267-7b1fbe4b647d" />
 
+---
+### 📌 ส่วนที่ 3: Details & Inventory
+
+<img width="793" height="340" alt="image" src="https://github.com/user-attachments/assets/8d433bf5-09d7-439d-aef2-b9679459ac1b" />
+
+
+โซน Details & Inventory มี 3 ส่วน
+
+
 
 
 
