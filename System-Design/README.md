@@ -30,8 +30,6 @@
 
 ### 📌 ส่วนที่ 1: Header Zone (การปรับแต่งและเงื่อนไขตัวละคร)
 
-<img width="704" alt="Header Overview" src="https://github.com/user-attachments/assets/0c59e4eb-f315-418c-83cb-1d1fd6722503" />
-
 <img width="704" height="720" alt="Header (2)" src="https://github.com/user-attachments/assets/ae3e57eb-74bc-4a48-befe-a62b0acd5eed" />
 
 โซน Header ประกอบด้วย 8 ช่องข้อมูลหลักพร้อมระบบคำนวณอัตโนมัติแบบไดนามิก:
@@ -140,7 +138,7 @@
 <img width="466" alt="Talents System" src="https://github.com/user-attachments/assets/100631f3-bdd1-4f50-8267-7b1fbe4b647d" />
 
 ---
-### 📌 ส่วนที่ 3: Details & Inventory Zone (รายละเอียดความเชี่ยวชาญและทรัพยากรตัวละคร)
+### 📌 ส่วนที่ 3: Details (รายละเอียดความเชี่ยวชาญและทรัพยากรตัวละคร)
 
 <img width="100%" alt="Details & Inventory Overview" src="https://github.com/user-attachments/assets/8d433bf5-09d7-439d-aef2-b9679459ac1b" />
 
