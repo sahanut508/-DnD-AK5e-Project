@@ -257,7 +257,7 @@
 
 <img width="100%" alt="Arts Header Example" src="https://github.com/user-attachments/assets/9f27d22c-7622-44d3-8995-2c10f8e28c96" />
 
----
+
 
 #### 2. Arts List & Spell Mechanics (รายการเวทมนตร์และรายละเอียดยุทโธปกรณ์เวท)
 ตารางบันทึกคาถาเวทมนตร์แบบละเอียด รองรับการลงข้อมูลที่จำเป็นสำหรับการต่อสู้ครบถ้วนทั้ง 8 ช่อง:
