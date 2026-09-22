@@ -235,3 +235,13 @@
   * **Weapon Visuals:** ช่องสำหรับแนบรูปภาพหรือภาพประกอบของอาวุธเพื่อความสมจริง
 
 <img width="100%" alt="Weapons Section Example" src="https://github.com/user-attachments/assets/260b7dad-ad29-424a-be13-7c64328261f2" />
+
+---
+
+## 🎒 4. หน้า Art  
+
+<img width="751" height="206" alt="image" src="https://github.com/user-attachments/assets/93ae4c3a-8776-4336-b515-31ee5ede112c" />
+
+โดย หน้า Art จะมี 2 ส่วนหลักได้แแก่
+1. Spellcasting Header
+2. Spell List
