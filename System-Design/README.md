@@ -1,4 +1,4 @@
-<img width="704" height="720" alt="Header (2)" src="https://github.com/user-attachments/assets/0c2f32fb-efc3-45d5-95ef-2a7c6ad43aab" /># 📊 Arknights Sheet (TTRPG Data & System Design)
+# 📊 Arknights Sheet (TTRPG Data & System Design)
 
 **System & Data Design**: ออกแบบและพัฒนาระบบคำนวณสถิติตัวละครอัตโนมัติผ่าน Google Sheets เพื่ออำนวยความสะดวกและลดข้อผิดพลาดในการประมวลผลข้อมูลของผู้เล่น รองรับการแปลงค่า Modifier, Ability, Saving Throws, Armor Class (AC), Hit Dice และระบบ Dynamic Background ตาม Nationality 
 
