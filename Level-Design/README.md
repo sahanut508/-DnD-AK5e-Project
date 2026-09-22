@@ -1,4 +1,4 @@
-# 🗺️ Level Design & Battle Maps Showcase
+<img width="3500" height="3500" alt="uu1" src="https://github.com/user-attachments/assets/00872d34-11e7-4eac-944f-dbcd49fbf409" /># 🗺️ Level Design & Battle Maps Showcase
 
 วางโครงสร้างภารกิจและสร้าง Level Design (Battle Maps) รวม 26 แผนที่ ผ่านโปรแกรม Dungeondraft และ Canva รองรับการเล่นแล้วกว่า 9 ภารกิจหลัก และงาน Commission 10 แผนที่
 
@@ -40,5 +40,64 @@
 | Map 1: Beachfront | Map 2: At the Event | Map 3: Volcanic Cave |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/8582d3e3-47de-496a-83b3-b1762e099e62" width="100%" alt="Beachfront" /> | <img src="https://github.com/user-attachments/assets/6f10510c-1fc7-42c3-b1ab-9ec150df1fb1" width="100%" alt="At the Event" /> | <img src="https://github.com/user-attachments/assets/b511517b-d6ed-48b4-909a-50c7f69d92de" width="100%" alt="Volcanic Cave" /> |
+
+</details>
+
+---
+
+<details>
+<summary><b>3. Shadows of the New Camp (5 Maps) — Click to Expand</b></summary>
+
+### 📜 Quest Concept & Design Intent
+* **Concept:** เรื่องราวสืบเนื่องจาก Last_Delivery_of_Hope ถ่ายทอดความขัดแย้งและรอยร้าวที่ยังคงแอบแฝงอยู่ภายในกลุ่มผู้ประสบภัย
+* **Level Design Features:** มุ่งเน้นการสำรวจและสืบสวนสภาพแวดล้อม (Environmental Investigation & Environmental Storytelling) บังคับให้ผู้เล่นต้องสังเกตรายละเอียดในฉากเพื่อเบาะแสและทางไปต่อ
+
+| Map 1: Camp Area 1 | Map 2: Camp Area 2 | Map 3: Sub-Zone 2.2 | Map 4: Camp Area 3 | Map 5: Camp Area 4 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/6cd76dba-56bf-437b-9ab1-b78f3210eec4" width="100%" alt="uu1" /> | <img src="https://github.com/user-attachments/assets/acb20148-d266-412c-a4b4-0763b9c38058" width="100%" alt="uu2" /> | <img src="https://github.com/user-attachments/assets/83fe7af0-ce64-47a8-a29b-426a79991cba" width="100%" alt="uu2.2" /> | <img src="https://github.com/user-attachments/assets/2a9a9c62-ae21-4ca5-871d-d97730ebd378" width="100%" alt="uu3" /> | <img src="https://github.com/user-attachments/assets/169b823e-c871-4d9e-a90e-0629554241a9" width="100%" alt="uu4" /> |
+
+</details>
+---
+
+<details>
+<summary><b>2. OBSIDIAN OVERDRIVE (3 Maps) — Click to Expand</b></summary>
+
+### 📜 Quest Concept & Design Intent
+* **Concept:** ภารกิจการรบในพื้นที่เมือง/สถาปัตยกรรมสไตล์ Obsidian
+* **Level Design Features:** พื้นที่เล่นหลายระดับ (Verticality) และจุดซุ่มยิงของ Ranged Units
+
+| Map 1: Entry | Map 2: Main Stage | Map 3: Escape Route |
+| :---: | :---: | :---: |
+| <img src="[Link รูป 1]" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
+
+</details>
+
+---
+
+<details>
+<summary><b>2. OBSIDIAN OVERDRIVE (3 Maps) — Click to Expand</b></summary>
+
+### 📜 Quest Concept & Design Intent
+* **Concept:** ภารกิจการรบในพื้นที่เมือง/สถาปัตยกรรมสไตล์ Obsidian
+* **Level Design Features:** พื้นที่เล่นหลายระดับ (Verticality) และจุดซุ่มยิงของ Ranged Units
+
+| Map 1: Entry | Map 2: Main Stage | Map 3: Escape Route |
+| :---: | :---: | :---: |
+| <img src="[Link รูป 1]" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
+
+</details>
+
+---
+
+<details>
+<summary><b>2. OBSIDIAN OVERDRIVE (3 Maps) — Click to Expand</b></summary>
+
+### 📜 Quest Concept & Design Intent
+* **Concept:** ภารกิจการรบในพื้นที่เมือง/สถาปัตยกรรมสไตล์ Obsidian
+* **Level Design Features:** พื้นที่เล่นหลายระดับ (Verticality) และจุดซุ่มยิงของ Ranged Units
+
+| Map 1: Entry | Map 2: Main Stage | Map 3: Escape Route |
+| :---: | :---: | :---: |
+| <img src="[Link รูป 1]" width="100%"/> | <img src="[Link รูป 2]" width="100%"/> | <img src="[Link รูป 3]" width="100%"/> |
 
 </details>
